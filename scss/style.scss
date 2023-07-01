@@ -1,3 +1,4 @@
+@import '../scss/componente/footer';
 
 body{
     height: 100%; 
@@ -51,8 +52,8 @@ label{
 display: block; 
 float: center;  
 }
-  
-  
+
+
 button{
 height: 45px; 
 padding-left: 5px;
@@ -277,26 +278,7 @@ z-index: 99;
 
 
 
-/* Footer */
 
-.contenedor3{
-height: 100px;
-width: auto;
-margin: 10px;
-text-align: center;
-background-size:cover;
-background-color:#000000;
-}
-
-
-
-.footer_link{
-color: #ffffff;
-}
-
-.footer_text{
-color: #ffffff;
-}
 
 /* ---Estructura con grids--- */
 

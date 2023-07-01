@@ -1,4 +1,22 @@
 @charset "UTF-8";
+/* Footer */
+.contenedor3 {
+  height: 100px;
+  width: auto;
+  margin: 10px;
+  text-align: center;
+  background-size: cover;
+  background-color: #000000;
+}
+
+.footer_link {
+  color: #ffffff;
+}
+
+.footer_text {
+  color: #ffffff;
+}
+
 body {
   height: 100%;
   font-family: "Noto Sans", sans-serif;
@@ -258,24 +276,6 @@ ul, ol {
 .nav > ul > li {
   float: left;
   margin: 0% auto;
-}
-
-/* Footer */
-.contenedor3 {
-  height: 100px;
-  width: auto;
-  margin: 10px;
-  text-align: center;
-  background-size: cover;
-  background-color: #000000;
-}
-
-.footer_link {
-  color: #ffffff;
-}
-
-.footer_text {
-  color: #ffffff;
 }
 
 /* ---Estructura con grids--- */
